@@ -1,38 +1,39 @@
 # Site settings
-title: Dr. Spencer Bryngelson
-email: spencer@caltech.edu
-description: Academic webpage of Dr. Spencer H. Bryngelson
+title: 刘振翔(JasonLiu)
+email: 2112103397@zjut.edu.cn
+description: 振翔的个人主页
 baseurl: ""
 url: ""
 
 
 # Google analytics ID: Remove or use your own!
-google_analytics: UA-167467135-1
-google_analytics_4: G-02KDGRRB2T
-google_tag_manager: GTM-TZ9Z7HZ
+# google_analytics: UA-167467135-1
+# google_analytics_4: G-02KDGRRB2T
+# google_tag_manager: GTM-TZ9Z7HZ
 
 # Footer info
 affiliation: >
-    Dr. Spencer Bryngelson<br/>
-    Senior Postdoctoral Scholar<br/>
-    <a href="http://www.eas.caltech.edu/" target="_blank">Engineering and Applied Science</a><br/>
-    California Institute of Technology
+    刘振翔<br/>
+    硕士研究生<br/>
+    学业奖学金获得者<br/>
+    <a href="http://www.ie.zjut.edu.cn/" target="_blank">信息工程学院</a><br/>
+    <a href="http://www.zjut.edu.cn/" target="_blank">浙江工业大学</a><br/>
 
 location: >
-  <a href="http://www.mce.caltech.edu/about/gates_thomas" target="_blank">Gates-Thomas Laboratory</a><br/>
-  California Institute of Technology <br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125, MC104-44
-
+  网络与智能通信实验室D125<br/>
+  浙江工业大学信息工程学院<br/>
+  浙江省杭州市西湖区<br/>
+  留下街道留和路228号
 contact: >
-    <a href="mailto:spencer@caltech.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Spencer via email</a> <br/>
-    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+    <a href="mailto:2112103397@zjut.edu.cn" target="_blank"><i class="fa fa-envelope fa-1x"></i> 浙工大邮箱</a> <br/>
+    <a href="mailto:jasonliu258@163.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> 163邮箱</a> <br/>
+    <a href="https://github.com/jasonlius"><i class="fa fa-github fa-1x"></i> Github主页</a>
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
-  - name: publications
-  - name: talks
+  - name: 关于我
+  - name: 研究
+  - name: 生活
   - name: research
   - name: software
 # - name: team
