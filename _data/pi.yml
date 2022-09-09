@@ -1,10 +1,10 @@
-- name: Dr. Spencer H. Bryngelson
-  photo: spencer_headshot.jpg
+- name: 刘振翔
+  photo: jasonliu.jpg
   info: Senior Postdoctoral Scholar, Caltech 
-  email: spencer@caltech.edu
-  github: https://github.com/sbryngelson
-  researchgate: https://www.researchgate.net/profile/Spencer_Bryngelson
-  scholar: https://scholar.google.com/citations?user=dM-nHdMAAAAJ&hl=en
+  email: 2112103397@zjut.edu.cn
+  github: https://github.com/jasonlius
+  researchgate: https://www.researchgate.net
+  scholar: https://scholar.google.com/
   cv: cv/cv.pdf
   number_educ: 6
   education1: (2018- ) Senior Postdoc, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
