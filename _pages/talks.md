@@ -23,12 +23,10 @@ permalink: /生活/
 </style>
 
 <div class="jumbotron">
-### Invited talks
-{% bibliography --query @incollection[keywords ^= invited] %}
+暂时还没有内容哦！
 </div>
 
 <div class="jumbotron">
-### Regular talks
-{% bibliography --query @incollection[keywords != invited] %}
+暂时还没有内容哦！
 </div>
 
